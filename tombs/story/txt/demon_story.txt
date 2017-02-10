@@ -1,0 +1,17 @@
+page_one=<font face="Arial, Helvetica, sans-serif" size="12" color="#ffffff">The gods are angry!<br><br>There have been many floods. If there is another one it will ruin the harvest and people will starve this winter.  We are at war with another state and we have lost many of our best soldiers in these battles.<br>We must do something now to please our ancestors. They will ask the gods to bring us better fortune.</font>
+&page_two=<font face="Arial, Helvetica, sans-serif" size="12" color="#ffffff">I will hold an ancestor ritual for one of our most important ancestors.<br><br>We will offer food and drink to the ancestors in glittering bronze vessels.  We will sacrifice animals for them.  There will be singing and dancing also.  Once the ritual is over we can have a feast.<br>We must make sure that we perform the ritual in the right order and with proper respect, only then will the ancestors be pleased.</font>
+&page_three=<font face="Arial, Helvetica, sans-serif" size="12" color="#ffffff">I will buy an <a href="javascript:openGlos('../../glossary/i/inscribed.html','insc')"><b><u>inscribed</u></b></a> bronze vessel.<br><br>I will commission someone to make a bronze vessel. I will get it inscribed with a statement to show our ancestors how well we have done.  It will also tell them how much we honour and respect them. We will offer wine in the vessel. When the ancestors drink the wine, they can read the <a href="javascript:openGlos('../../glossary/i/inscription.html','inscr')"><b><u>inscription</u></b></a>.  This will make them very happy with us. </font>
+&page_four=<font face="Arial, Helvetica, sans-serif" size="12" color="#ffffff">I will properly furnish this tomb.<br><br>My brother the king has died. He was a very wise king. He is now an influential ancestor. I must make sure that the king's tomb shows just how important he was in life.  I'll ensure that all the objects the king wants are buried with him.<br><br>If I do this well the king will be very pleased with me.
+&page_five=<font face="Arial, Helvetica, sans-serif" size="12" color="#ffffff">We have done many things to make our ancestors happy. They should be pleased with us and will ask the gods to bring us good fortune.</font>
+
+
+
+
+
+
+
+
+
+
+
+

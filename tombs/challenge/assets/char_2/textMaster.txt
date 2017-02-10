@@ -1,0 +1,47 @@
+name_0=Bronze bell&type_0=F
+&desc_0=Wonderful! A good choice. I love listening to my orchestra playing the bells. I want to be able to hear music in the next life as well. This bell can play two notes. This is because of the shape of the bottom of the bell.
+
+&name_1=Large bronze bell&type_1=F
+&desc_1=Great - this will be a good addition to my tomb. My orchestra play the bells at ritual ceremonies. In the afterlife I will need these for future rituals.
+
+&name_2=Two bronze <i>hu</i>&type_2=B
+&desc_2=This is a beautiful pair of bronze <i>hu</i>. This is a good choice for my tomb. I will still need to make offerings to the ancestors when I am dead. These can be used at an ancestor ritual to hold wine.
+
+&name_3=Earthenware vessel&type_3=C
+&desc_3=This is an attractive vessel, probably a copy of a bronze ritual vessel. However I would prefer if this were made from bronze. Bronze is a very precious material and would be much more pleasing to my ancestors.
+
+&name_4=Zhou <i>hu</i>&type_4=B
+&desc_4=Excellent - I will definitely need this with me in my tomb. I will continue to make ritual offerings to the ancestors after I am dead. This is a beautiful bronze vessel will be used to serve wine.
+
+&name_5=Drum&type_5=F
+&desc_5=An excellent choice. I think this drum may have been used in battle originally. However I love the sound of bells and drums played together. Music will played at rituals in the afterlife. So this is a really good choice for my tomb.
+
+&name_6=Wind instrument&type_6=F
+&desc_6=A new addition to my orchestra - great! The musicians in my orchestra will play this by placing pipes in the holes at the side, and the music comes out through the top.
+
+&name_7=Lacquered <i>dou</i>&type_7=B
+&desc_7=This lacquered <i>dou</i> is wonderful. So much work has gone into this - it is wonderfully decorated.  I can use this at banquets to offer food.
+
+&name_8=Shang dynasty bell&type_8=F
+&desc_8=Splendid! An antique bell to add to my collection. I enjoy hearing music so much - it would be wonderful to listen to music in the afterlife as well.
+
+&name_9=Bronze belt hook&type_9=G
+&desc_9=Superb. This belt hook is beautiful. People use these ornate belt hooks to show their status in life. This one will definitely show my high role in society. 
+
+&name_10=Ceramic jar&type_10=C
+&desc_10=I would much prefer something made out of a more precious material. What about lacquerware? Or perhaps something in bronze? 
+
+&name_11=<i>Dui</i> with silver inlay&
+type_11=B
+&desc_11=This is wonderful. I love the gold and silver inlaid in this <i>dui</i>. It's so bright and shining.  This would be used to serve food at ancestor rituals.
+
+&name_12=Jade pendant&type_12=D
+&desc_12=Superb! These jade plaques will dress my body in the tomb and will proted.
+
+&name_13=Bronze <i>dui</i>&type_13=B
+&desc_13=A splendid choice.  This is a <i>dui</i>, a food vessel to be used at rituals.  It is made of two halves - when separated they form two almost identical bowls.
+
+&name_14=Jade plaques&type_14=D
+&desc_14=Splendid! These jade plaques can be placed on my body in my tomb. They will protect and preserve me when I am dead.
+
+&intro1=I am a very important lord.  My tomb must show my high status in life.  The objects in the tomb must be of the very finest quality.  I am a great music lover and have a wonderful musical group who play for me. <br><br>I'll need a set of ritual vessels so that I can continue to pay respects to my ancestors.<br><br>I'll need some jade objects in my tomb also. They will protect me in the afterlife.

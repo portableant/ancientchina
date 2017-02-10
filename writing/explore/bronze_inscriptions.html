@@ -1,0 +1,108 @@
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Writing</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="style.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+adImages = new Array("images/gui_f01.jpg","images/gui_f02.jpg","images/gui_f03.jpg","images/gui_f04.jpg","images/gui_f05.jpg","images/gui_f06.jpg","images/gui_f07.jpg","images/gui_f08.jpg","images/gui_f09.jpg","images/gui_f10.jpg")
+	thisAd = 0
+	wait = 0
+	imgCt = adImages.length
+
+
+function rotate() {
+	if (thisAd == -1) {
+	window.location="bronze_inscriptions2.html"
+	}
+	else {
+		if (document.images) {
+			thisAd++
+			if (thisAd == imgCt) {
+				thisAd = -1
+			}
+			else {
+				document.moon.src=adImages[thisAd]
+			setTimeout("rotate()", 100)
+			}
+		}
+	}
+}
+
+function openPic(URL,winName) {
+  window.open(URL,winName,"width=450,height=400,status=no,toolbar=no,menubar=no,scrollbars=yes,resizable=yes");
+}
+function MM_preloadImages() {
+  if (document.images) {
+    var imgFiles = MM_preloadImages.arguments;
+    var preloadArray = new Array();
+    for (var i=0; i<imgFiles.length; i++) {
+      preloadArray[i] = new Image;
+      preloadArray[i].src = imgFiles[i];
+    }
+  }
+}
+
+function MM_swapImage() {
+  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
+    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+    obj = eval(objStr);
+    if (obj != null) {
+      swapArray[j++] = obj;
+      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+      obj.src = MM_swapImage.arguments[i+2];
+  } }
+  document.MM_swapImgData = swapArray;
+}
+
+
+function openGlos(URL,winName) {
+  window.open(URL,winName,"width=300,height=300,status=no,toolbar=no,menubar=no,scrollbars=yes,resizable=yes");
+}
+//-->
+
+</script>
+</head>
+
+<body>
+<div align="center">
+<table width="420" border="0" cellpadding="20" cellspacing="0">
+<tr><td class="main" valign="top">
+<p>In <a href="javascript:openGlos('../../glossary/s/shang.html','shan')">Shang</a> times the only writing that might be seen on a <a href="javascript:openGlos('../../glossary/b/bronze.html','bron')">bronze</a> vessel was a mark of ownership or a short <a href="javascript:openGlos('../../glossary/i/inscription.html','insc')">inscription</a> giving the name of the ancestor. During the <a href="javascript:openGlos('../../glossary/w/western_zhou.html','west')">Western Zhou</a> dynasty inscriptions on the ritual vessels became much longer.  The inscriptions played an important part in the <a href="javascript:openGlos('../../glossary/a/ancestor_r.html','ance')">ancestor ritual.</a></p>
+
+<img src="images/ps240725.jpg" width="154" height="172" border="0" align="right" alt="you"><br>
+
+At a ritual ceremony food and drink would be placed in the bronze vessels for the ancestor.  From the spirit world the ancestors would see the inscription at the bottom of the vessel and could read it.
+
+<p>A vessel could be inscribed after the owner had received an appointment or present from the king. The inscription would mention the present or job the owner had received.  It would honour the king and then honour the ancestors. The ancestors could read about the owner's good deeds. They could also see that the owner showed proper respect for them.</p>
+
+<p>
+This <em>gui</em> is one of the most famous inscribed vessels outside China. Look inside to see what is written.
+</p>
+
+<div align="center" class="caption">
+<a href="javascript:rotate()">
+<img src="images/gui_f01.jpg" width="280" height="185" alt="Xing Hou Gui" vspace="10" name="moon" border="0"></a>
+
+<br>Xing Hou <em>Gui</em></div>
+
+
+<b><a href="bronze_inscriptions2.html">Click on the <em>gui</em> to look at the inscription.</a></b>
+
+</td></tr>
+
+<tr><td>
+<p align="right"><b><a href="intro.html">back to Writing introduction</a></b></p>
+</td></tr>
+
+</table>
+</div>
+</body>
+</html>

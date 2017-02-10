@@ -1,0 +1,59 @@
+  body {
+	background-color: #3C124A;
+	color: White;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+	color : Black;
+}
+td.main {
+	background-color : #f8f4e8;
+	color : Black;
+	width : 380px;
+}
+td.process {
+	color : Black;
+	width : 360px;
+}
+td.m {
+	background-color : #f8f4e8;
+	color : Black;
+}
+td.main2 {
+	background-color : #faf2ea;
+	color : Black;
+	width : 360px;
+}
+h3 {
+	text-align : center;
+}
+div.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+div.im_l {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+	float : left;
+}
+div.im_r {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+	float : right;
+}

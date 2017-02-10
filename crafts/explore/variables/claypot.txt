@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=2&image1=swfs/claypot_0.swf&image2=swfs/claypot_1.swf&hex=0x000000&max_zoom=300&DATA=l_oaded

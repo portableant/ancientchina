@@ -1,0 +1,46 @@
+name_0=Jade spearhead&type_0=A&
+desc_0=My, this is a beautiful weapon. It is a spearhead - I have used one of these many times in battle. Of course this one would be no good in battle - jade is much too precious. However, in the next life it will show what a powerful war leader I was. A very good choice!
+
+&name_1=Bronze <i>zun</i>&type_1=B
+&desc_1=This is a very unusual and beautiful ritual vessel. It looks like it has come from the south of China. It It will be very pleasing to the ancestors that I will offer them wine in such an unusual vessel. I will need to perform these ancestor rituals even after I'm dead.
+
+&name_2=Ceramic <i>jue</i>&type_2=C
+&desc_2=Mmmm - well this is OK. However I would much prefer something made out of bronze or jade. Bronze and jade are much more precious materials. Jade and bronze properly show my status and role in society.
+
+&name_3=Bronze <i>hu</i>&type_3=B
+&desc_3=What a wonderful <i>hu</i>. I will serve wine to the ancestors from this vessel. It is very important that I continue to make offerings to my ancestors.  It is made of bronze and is wonderfully decorated, this will show how important I was.
+
+&name_4=Bronze axe&type_0=B
+&desc_4=Ahh - a superb choice. This axe is used at ceremonies and rituals.  It will be used to cut off the heads of people or animals who are being sacrificed to the gods.
+
+&name_5=Jade silkworms&type_5=D
+&desc_5=These are a splendid choice. I love jade. It is so precious, beautiful, and wonderful to touch. The worms are so well carved. Yes, this will be a very good addition to my tomb.
+
+&name_6=Jade carving of face&type_6=D
+&desc_6=What a marvellous jade object. This is an antique, probably hundreds of years old. Jade is such a precious and magical stone. This will be a very good addition to my tomb.
+
+&name_7=Bronze <i>ding</i>&type_7=B
+&desc_7=Magnificent. Another object to add to my collection of ritual vessels. It is very important for me to bring my sets of ritual vessels. This vessel is called a <i>ding</i>. I will use it to heat food for the ancestors.
+
+&name_8=Jade cormorant&type_8=D
+&desc_8=Magnificent! What a lovely jade object - it is probably part of a pendant set. Jade is very precious and a great addition to my tomb. At home, I have often watched cormorants as they fish.
+
+&name_9=Jade stag&type_9=D
+&desc_9=My husband has often brought back stags from hunting so this will be a great reminder of those hunting trips.  Jade is a very valuable material. It is so luminous and glowing. A very good choice.
+
+&name_10=Bronze wine vessels&type_10=B&name
+&desc_10=Wonderful. These bronze wine vessels can be used at ancestor rituals. The vessel with legs is used to heat the wine, and the wine is then served warm. It will be very important to 
+
+&name_11=Bronze knife&type_11=A
+&desc_11=My! This is a dangerous weapon! The handle is decorated with a dragon. A very good choice indeed. This weapon will show how powerful I was on earth.
+
+&name_12=Bronze halberd&type_12=A
+&desc_12=What a splendid bronze halberd. A weapon made out of bronze like this will symbolise my power and status.  Bronze is a very precious material, and will show my high status.
+
+
+&name_13=Ceramic jar&type_13=C
+&desc_13=Hmmm, I don't think I want this in my tomb.  It looks like a copy of a bronze vessel. However I would much prefer this if it were something made in bronze. Bronze would show my status .
+
+&name_14=Ceramic <i>li</i>&type_14=C&desc_14=This is a <i>li</i>. It is a tripod for serving food. However I would much prefer if it were made from bronze. Bronze is a much more impressive material to use at a ritual.&intro1=I am one of the king's wives.  We have had three sons and two daughters.  I played a very important role in wars and battles.  I led and planned many battles and wars. Some of these were very successful and we gained great land and wealth.  I also was in charge of many ancestor rituals.<BR><BR>I need a tomb that shows how important my life has been, only the finest objects will do.  I will also need to perform ancestor rituals after my death, so I will need the proper ritual vessels for food and drink.  I'll also need something that will help me fight battles if I need to do that after death.
+
+&variation=You have done well but I will also need some other types of objects.&wrong= One of the objects is not suitable

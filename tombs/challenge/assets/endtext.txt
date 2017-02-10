@@ -1,0 +1,1 @@
+variation=You have done well but I will also need some other types of objects.&wrong= Not all of these objects are suitable&right=You have chosen well. Thank you.
